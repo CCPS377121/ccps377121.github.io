@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>about me</title>
+</head>
+<header>
+<nav>
+<ul>
+<a href="./index.html"><li>Home</li></a>
+<a href="./about.html"><li>about me</li></a>
+</ul>
+</nav>
+</header>
+<body>
+<h1>About Me</hq>
+<p>THIS IS WHERE YOU PUT YOUR ABOUT ME FROM OUR PREVIOUS ASSIGNMENT</P>
+</body>
+<footer>
+</footer>
+</html
